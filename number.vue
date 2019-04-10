@@ -123,7 +123,6 @@ export default {
 </script>
 
 <style lang="scss">
-// @import '../../styles/weui/widget/weui_cell/weui_cell_global';
 
 .mt-cell-primary {
   flex: 1;
